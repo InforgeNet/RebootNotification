@@ -1,0 +1,1 @@
+A system reboot is needed to apply some updates. Please connect to your server and run <code>shutdown -r hh:mm</code> to schedule a reboot at time <code>hh:mm</code> (or 'now' to reboot instantly).

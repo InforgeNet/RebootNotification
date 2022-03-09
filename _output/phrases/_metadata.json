@@ -1,0 +1,20 @@
+{
+    "if_rn_system_reboot_is_needed_warning.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d0a58d658a5d61af6c2b98830b50f25e"
+    },
+    "option.ifRnCheckFile.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "40d2cc9bbb45713871b680517b9220c2"
+    },
+    "option_explain.ifRnCheckFile.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "9721600d15afd860e541144be6961b9f"
+    }
+}

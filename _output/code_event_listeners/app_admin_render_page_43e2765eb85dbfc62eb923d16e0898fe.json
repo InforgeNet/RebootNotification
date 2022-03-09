@@ -1,0 +1,9 @@
+{
+    "event_id": "app_admin_render_page",
+    "execute_order": 100,
+    "callback_class": "Inforge\\RebootNotification\\Listener",
+    "callback_method": "checkReboot",
+    "active": true,
+    "hint": "",
+    "description": "Check if a system reboot is needed."
+}

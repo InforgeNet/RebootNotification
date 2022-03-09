@@ -1,0 +1,9 @@
+{
+    "template": "PAGE_CONTAINER",
+    "description": "Adds the notification to reboot the system if needed.",
+    "execution_order": 50,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<xf:if is=\"$breadcrumbs is not empty\">",
+    "replace": "<xf:if is=\"$systemRebootNeeded\">\n\t<div class=\"blockMessage blockMessage--important blockMessage--iconic\">\n\t\t{{ phrase('if_rn_system_reboot_is_needed_warning') }}\n\t</div>\n</xf:if>\n$0"
+}
